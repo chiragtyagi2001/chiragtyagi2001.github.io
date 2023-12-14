@@ -1,0 +1,1252 @@
+[{
+		"id": 345,
+		"name": "Dr. Suresh Mohan",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9899457810",
+		"address": {
+			"street": "Sector 7 Dwarka",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. Suresh Mohan has expertise in endoscopic nasal and sinus surgery, rhinoplasty, microear surgery and neuro- otological disorders. He has special interest in paediatric otorhinolaryngology. ",
+		"experience": " 15 Years ",
+		"booking_fee": " 1500",
+		"qualifications": "DNB, MS, MBBS"
+	},
+
+	{
+		"id": 346,
+		"name": "Dr. Sachin Mittal",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9812468881",
+		"address": {
+			"street": "6/46 Model Town ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. Sachin Mittal expertise includes laryngology, voice surgery, laser surgery, cochlear implants, endoscopic sinus surgery, microscopic ear surgery and head and neck surgery.",
+		"experience": " 15 Years",
+		"booking_fee": " 2000",
+		"qualifications": "MBBS, DNB, MS, MNAMS"
+	},
+
+
+
+
+
+	{
+		"id": 347,
+		"name": "Dr. Neha Mehta",
+		"gender": "F",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "09050232637",
+		"address": {
+			"street": "Opp Civil Hospital ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400001"
+		},
+		"description": "Dr. Neha Mehta is a consultant. She has expertise in Microscopic ear surgery, Endoscopic sinus surgery, Microlaryngeal surgeryRhinology. ",
+		"experience": " 5 Years",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, MS"
+	},
+
+
+
+
+
+	{
+		"id": 349,
+		"name": "Dr. Gaurav Juneja",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Gaurav Juneja is a consultant in ENT department.",
+		"experience": " 4 Years ",
+		"booking_fee": " 650 ",
+		"qualifications": "MBBS, MS"
+
+	},
+
+
+
+
+
+	{
+		"id": 350,
+		"name": "Dr. Deepti",
+		"gender": "F",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9165766400",
+		"address": {
+			"street": "55/18 kamla Nagar ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "100003"
+		},
+		"description": "Dr. Deepti is a senior consulant in ENT.",
+		"experience": " 9 Years ",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, DNB, MS"
+	},
+
+
+
+
+	{
+		"id": 351,
+		"name": "Dr. Vikram jain",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9034951525",
+		"address": {
+			"street": "Near Jindal Chowk ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "100001"
+		},
+		"description": "Dr. Vikram Jain is a consultant in ENT. ",
+		"experience": " 5 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, MS"
+	},
+
+
+
+
+
+	{
+		"id": 352,
+		"name": "Dr. Amit Reddy",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416108409",
+		"address": {
+			"street": "Near Char Minar ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "503453"
+		},
+		"description": "Dr. Amit Reddy is a senior doctor. He has expertise in Ear Surgery, Nose Surgery, Tongue Surgery. ",
+		"experience": " 6 Years ",
+		"booking_fee": " 2000 ",
+		"qualifications": "MBBS, MS, DNB"
+	},
+
+
+
+	{
+		"id": 353,
+		"name": "Dr. Anurag Bajaj",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9996863353",
+		"address": {
+			"street": "Near Railway Station",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. Anurag Bajaj is a senior doctor in Dental Sciences. He has expertise in treating patients with complex requirements like oral surgery, dental implant, All-on-4, full mouth implants, bone grafting and TMJ surgeries. ",
+		"experience": "12 Years",
+		"booking_fee": "500",
+		"qualifications": "MDS, BDS, Fellow"
+	},
+
+
+
+	{
+		"id": 354,
+		"name": "Dr. S.k.Mohan",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9899458420",
+		"address": {
+			"street": "Model Town",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. S.k. Mohan is a senior consultant in Delhi where he had been practicing general as well as pediatric dentistry. ",
+		"experience": "10 Years",
+		"booking_fee": "1000",
+		"qualifications": "BDS, Fellow of Academy of General Education (FAGE), MDS"
+	},
+
+
+
+
+	{
+		"id": 355,
+		"name": "Dr. Umesh Mehta",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9679457810",
+		"address": {
+			"street": "Sector 13",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400001"
+		},
+		"description": "Dr. Umesh Mehta has special interest in Restorative and Cosmetic Dentistry and has undergone various certification courses to restore teeth with optimum aesthetic value. ",
+		"experience": "10 Years",
+		"booking_fee": "1000",
+		"qualifications": "BDS, MJDF, MFDS"
+	},
+
+
+
+
+	{
+		"id": 356,
+		"name": "Dr. Saroj ",
+		"gender": "F",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "98416534512",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Saroj is an expert in globally renowned Invisalign clear aligners, lingual braces, self-ligating braces and ceramic braces.",
+		"experience": " 5 Years ",
+		"booking_fee": " 800 ",
+		"qualifications": "BDS, DNB, MDS"
+	},
+
+
+
+	{
+		"id": 357,
+		"name": "Dr. Shashi Yadav",
+		"gender": "Female",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416535312",
+		"address": {
+			"street": "Near Sector 56 Bus Station",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Shashi Yadav specialises in cosmetic dentistry including cosmetics gum treatment surgical extractions crown bridges as well as conservative procedures of general dentistry including restorations root canal treatment teeth whitening etc.",
+		"experience": " 8 Years",
+		"booking_fee": " 600 ",
+		"qualifications": "BDS, MDS"
+	},
+
+
+
+	{
+		"id": 357,
+		"name": "Dr. Dhruva Mukherji",
+		"gender": "Male",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8716532712",
+		"address": {
+			"street": "Near Main Market ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Dhruva Mukherji specialises in laser dentistry, Endodontics & Conservative Dentistry, Cosmetic dentistry.",
+		"experience": "10 Years ",
+		"booking_fee": " 700 ",
+		"qualifications": "BDS, Master in Oral laser applications, Fellowship in Contemporary Endodontics"
+	},
+
+
+
+
+	{
+		"id": 358,
+		"name": "Dr. Harsh Narayan Murthy",
+		"gender": "Male",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9466532112",
+		"address": {
+			"street": "Near Old Ayaapa temple ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Harsh Narayan Murthy is a consultant doctor. He has a specialization in Oral Implantology for dental rehabilitation, Corrective Jaw Surgeries. ",
+		"experience": " 2 Years",
+		"booking_fee": " 450 ",
+		"qualifications": "BDS, MDS, FICCMO"
+	},
+
+
+
+
+
+	{
+		"id": 359,
+		"name": "Dr. Anjani Chinnapa",
+		"gender": "Male",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8450132712",
+		"address": {
+			"street": "Near Pacific mall ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dr. Anjani Chinnapa is an expert in globally renowned Invisalign clear aligners, lingual braces, self-ligating braces and ceramic braces. ",
+		"experience": " 5 Years",
+		"booking_fee": " 600",
+		"qualifications": "MDS , BDS, DNB"
+	},
+
+
+
+
+
+	{
+		"id": 360,
+		"name": "Dr. Rajesh",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8752532712",
+		"address": {
+			"street": "Near Rajiv Chowk ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100002"
+		},
+		"description": "Dr. Rajesh is a senior doctor of Neuroscience. He pioneered the role of thrombolysis in Acute Stroke. His interest is also in Neuro-rehabilitation, Occupational therapy and Stroke prevention. ",
+		"experience": " 10 Years ",
+		"booking_fee": " 1500 ",
+		"qualifications": "MBBS, DM, MD"
+	},
+
+
+
+
+
+	{
+		"id": 361,
+		"name": "Dr. Anjali",
+		"gender": "F",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416511111",
+		"address": {
+			"street": "Near ISBT ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100005"
+		},
+		"description": "Dr. Anjali is a senior doctor. Her key area of interest lies in Movement Disorders, Stroke and Epilepsy.  ",
+		"experience": " 8 Years ",
+		"booking_fee": " 1000",
+		"qualifications": "MBBS, MD, DM"
+	},
+
+
+
+
+
+
+	{
+		"id": 362,
+		"name": "Dr. Bhargava Ahuja",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9138405216",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Bhargava Ahuja is a senior doctor. He has expertise in Epilepsy- diagnostic dilemma, complicated epilepsy, epilepsy surgery workup. ",
+		"experience": " 10 Years ",
+		"booking_fee": " 1550",
+		"qualifications": "PDF, MBBS, DM, MD"
+	},
+
+
+	{
+		"id": 363,
+		"name": "Dr. Akash Satija",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9415422712",
+		"address": {
+			"street": "Near Old Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Akash Satija is a senior consultant. His field of interest is Stroke, Electrophysiology and critical care in Neurology. ",
+		"experience": " 8 Years ",
+		"booking_fee": "700 ",
+		"qualifications": "MBBS, DNB, MD"
+	},
+
+
+
+
+	{
+		"id": 364,
+		"name": "Dr. Adah Malik",
+		"gender": "F",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9996854215",
+		"address": {
+			"street": "Near Railway Station ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Adah Malik is a senior consultant. Her area of expertise is Movement Disorder OPD, Management of Advanced Parkinson Patients, Treatment of Various Movement Disorders. ",
+		"experience": " 5 Years ",
+		"booking_fee": "950 ",
+		"qualifications": "MBBS, DM, MD"
+	},
+
+
+
+
+	{
+		"id": 365,
+		"name": "Dr. Abhay",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988723001",
+		"address": {
+			"street": "Model Town ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Abhay competence spans all facets of neurosurgery –- cranial, spinal and peripheral nerves. Dr. Abhay has special interest in brain tumor surgery, cerebrovascular surgery, epilepsy surgery and radiosurgery. ",
+		"experience": " 10 Years ",
+		"booking_fee": " 1500 ",
+		"qualifications": "MBBS, DNB, Mch"
+	},
+
+
+
+	{
+		"id": 366,
+		"name": "Dr. Vikas Mehta",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416407623",
+		"address": {
+			"street": "Sector 2 ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Vikas Mehta is a consultant in Neurology.",
+		"experience": " 2 Years ",
+		"booking_fee": " 450 ",
+		"qualifications": "MBBS, DM"
+	},
+
+
+	{
+		"id": 367,
+		"name": "Dr. Rajan",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8845124578",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. Rajan is a senior consultant. ",
+		"experience": " 5 Years ",
+		"booking_fee": " 700 ",
+		"qualifications": "MD, DM"
+	},
+
+	{
+		"id": 368,
+		"name": "Dr. V.s. Rao",
+		"gender": "F",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8199022712",
+		"address": {
+			"street": "Sector 4",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dr. V.s. Rao have deep expertise in biomechanics, knee pain, spondylytis, external fixator & herniated discs. His expertise in minimally invasive total knee and hip arthroplasty is par excellence facilitating painless and rapid recovery. ",
+		"experience": " 8 Years",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, DNB, Mch, MS"
+	},
+
+	{
+		"id": 369,
+		"name": "Dr. Gopal",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9415422222",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110003"
+		},
+		"description": "Dr. Gopal is a senior doctor. His expertise includes Complex fracture care, General orthopaedics, Hip replacement, Joint preservation, Knee replacement, Knee resurfacing, Osteotomy, Osteoporosis management, Pelvis repair, Shoulder replacement. ",
+		"experience": "  15 Years",
+		"booking_fee": " 1500 ",
+		"qualifications": "MBBS, FRCS, MS"
+	},
+
+	{
+		"id": 370,
+		"name": "Dr. R.V. Verma",
+		"gender": "F",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416511120",
+		"address": {
+			"street": "Near Nehru Chowk ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dr. R.V. Verma is a senior consultant. His expertise includes Paediatric orthopaedics. ",
+		"experience": " 10 Years",
+		"booking_fee": " 600 ",
+		"qualifications": "MBBS, Diploma, DNB"
+	},
+
+	{
+		"id": 371,
+		"name": "Dr. Rajnish",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416161617",
+		"address": {
+			"street": "Near Purana gurudwara ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dr. Rajnish has expertise in degenerative and traumatic spine disorders. ",
+		"experience": " 6 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, FNB, DNB, MS"
+	},
+
+	{
+		"id": 372,
+		"name": "Dr. Balram",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416555000",
+		"address": {
+			"street": "Near Sector 4 mandir",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dr. Balram is a senior doctor with a special interest in degenerative and traumatic spine disorders. ",
+		"experience": " 6 Years ",
+		"booking_fee": " 2000 ",
+		"qualifications": "MBBS, FNB, DNB, MS"
+	},
+
+
+
+	{
+		"id": 373,
+		"name": "Dr.Ram Gopal",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416125415",
+		"address": {
+			"street": "Borivali",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "700004"
+		},
+		"description": "Dr. Ram Gopal has expertise in Birth anomalies, Bone grafting, Congenital disorders treatment, Club foot, Congenital hip dislocations, Deformity correction, Hand surgery, Juvenile rheumatoid arthritis, Limb lengthening, Limb reconstruction, Osteoporosis management, Paediatric orthopaedics, Tendon transfer, Total joint replacement surgeries. ",
+		"experience": " 10 Years",
+		"booking_fee": " 1000 ",
+		"qualifications": "MBBS, MS"
+	},
+
+
+
+	{
+		"id": 374,
+		"name": "Dr. Ronak Babu",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Near Old Fatak ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "140001"
+		},
+		"description": "Dr. Ronak Babu is a consultant in Paediatric orthopaedics. ",
+		"experience": " 3 Years",
+		"booking_fee": " 500",
+		"qualifications": "MBBS, Diploma, DNB"
+	},
+
+
+	{
+		"id": 375,
+		"name": "Dr. Chander Mohan",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8752461581",
+		"address": {
+			"street": "Near Jubilee Hills",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "140009"
+		},
+		"description": "Dr. Chander Mohan is a senior doctor with special interest in degenerative and traumatic spine disorders. ",
+		"experience": " 8 Years",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, FNB, DNB, MS"
+	},
+
+
+	{
+		"id": 376,
+		"name": "Dr. Boga Ram",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988124589",
+		"address": {
+			"street": "Sector 14 ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "140005"
+		},
+		"description": "Dr. Boga Ram is a consultant. ",
+		"experience": " 5 Years ",
+		"booking_fee": "450 ",
+		"qualifications": "MBBS, Diploma, DNB"
+	},
+
+
+
+	{
+		"id": 377,
+		"name": "Dr. Swaroop",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7581532712",
+		"address": {
+			"street": "Mukherjee Nagar",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100001"
+		},
+		"description": "Dr. Swaroop possesses expertise in musculoskeletal & Sports Physiotherapy. ",
+		"experience": "4 Years ",
+		"booking_fee": " 700",
+		"qualifications": "BPT, MPT"
+	},
+
+
+
+	{
+		"id": 378,
+		"name": "Dr. S.K.Mehta",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Nehru Palace",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100003"
+		},
+		"description": "Dr. S.K.Mehta is a senior orthopedic, neurologic, paedetric, sports, rehab and fitness consultant. ",
+		"experience": " 5 Years ",
+		"booking_fee": "800 ",
+		"qualifications": "BPTh/BPT"
+	},
+
+
+
+	{
+		"id": 379,
+		"name": "Dr. Madhav Juneja",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416531512",
+		"address": {
+			"street": "Near Huda House ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dr. Madhav Juneja has expertise in Joint Mobilization,Knee care,Arthritis and Pain Management,Lower Back Pain and Transcutaneous Electrical Nerve Stimulation (TENS) etc. ",
+		"experience": " 3 Years",
+		"booking_fee": " 400 ",
+		"qualifications": "BPTh/BPT"
+	},
+
+	{
+		"id": 380,
+		"name": "Dr. Hemant Singh",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896238256",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700002"
+		},
+		"description": "Dr. Hemant Singh is a Physiotherapist, Cardiovascular And Pulmonary Physiotherapist and Orthopedic Physiotherapist. ",
+		"experience": " 3 Years",
+		"booking_fee": " 400 ",
+		"qualifications": "BPTh/BPT"
+	},
+
+	{
+		"id": 381,
+		"name": "Dr. Sureel",
+		"gender": "F",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8199022712",
+		"address": {
+			"street": "Sector 2 ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Sureel is a Sports and Musculoskeletal Physiotherapist,Pain Management Specialist and Spine And Pain Specialist. She has expertise in Cryotherapy/Cold Therapy,Pelvic Rehabilitation,Home Care Physiotherapy,Lower Back Pain and Sports Fracture Rehabilitation etc. ",
+		"experience": " 8 Years ",
+		"booking_fee": " 500",
+		"qualifications": "BPTh/BPT,MPTh/MPT"
+	},
+
+	{
+		"id": 382,
+		"name": "Dr. Ajay Johar",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8955532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500004"
+		},
+		"description": "Dr. Ajay Johar has expertise in exercise prescription and rehabilitation. ",
+		"experience": " 5 Years ",
+		"booking_fee": " 550 ",
+		"qualifications": "BPTh/BPT,MPTh/MPT"
+	},
+
+	{
+		"id": 383,
+		"name": "Dr. DolatRam",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416512452",
+		"address": {
+			"street": "Marine Drive",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "130001"
+		},
+		"description": "Dr. DolatRam has expertise in spine. He is also specialised in podiatry and naturopathy. ",
+		"experience": " 8 Years ",
+		"booking_fee": " 1000",
+		"qualifications": "BPTh/BPT,MPTh/MPT"
+	},
+
+
+
+
+	{
+		"id": 384,
+		"name": "Dr. V.k.Singh",
+		"gender": "F",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7854621548",
+		"address": {
+			"street": "Near Railway Station",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "130006"
+		},
+		"description": "Dr. V.k.Singh is a senior consultant of Physiotherapy. ",
+		"experience": " 8 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "BPTh/BPT"
+	},
+
+
+
+	{
+		"id": 385,
+		"name": "Dr. Sajan Singh",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9411245712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100002"
+		},
+		"description": "Dr. Sajan Singh has expertise in Clinical Dermatology, Dermatopathology, Pediatric Dermatology, Dermatosurgery. ",
+		"experience": " 6 Years",
+		"booking_fee": " 1000",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 386,
+		"name": "Dr. R.L. Lodha",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416512233",
+		"address": {
+			"street": "Near R.K. Puram",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100000"
+		},
+		"description": "Dr. R.L. Lodha specialises in clinical dermatology and cosmetic procedures. ",
+		"experience": " 3 Years",
+		"booking_fee": " 700",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 387,
+		"name": "Dr. S.K. Beniwal",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7845451269",
+		"address": {
+			"street": "Sector 15",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. S.K. Beniwal has expertise in cosmetic surgeries and cosmetic procedures as well as clinical dermatology, dermatopathology, pediatric dermatology.  ",
+		"experience": " 6 Years ",
+		"booking_fee": "750",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 388,
+		"name": "Dr. Ashish Juneja",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988798845",
+		"address": {
+			"street": "Near Raja Garden",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dr. Ashish Juneja is a senior doctor. His expertise includes Aesthetic Dermatology, Dermatosurgery, Acne and Acne Scars, Geriatric Dermatology. ",
+		"experience": " 10 Years",
+		"booking_fee": " 600",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 389,
+		"name": "Dr. Sitaram",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988456123",
+		"address": {
+			"street": "Sector 12",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "140001"
+		},
+		"description": "Dr. Sitaram is a senior doctor. His expertise includes Clinical Dermatology, Cosmetic Dermatology, Paediatric Dermatology, Skin Allergy. ",
+		"experience": " 12 Years",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 390,
+		"name": "Dr. A.K. Saini",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896254152",
+		"address": {
+			"street": "Old Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "140003"
+		},
+		"description": "Dr. A.K. Saini has expertise in treatment of allergies, acne, eczema, hair fall, fungal rashes, pigmentation of skin, sun spots and ageing skin etc. ",
+		"experience": " 12 Years ",
+		"booking_fee": " 800 ",
+		"qualifications": "MBBS, DVD"
+	},
+
+
+
+	{
+		"id": 391,
+		"name": "Dr. Rakesh Juneja",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9466123485",
+		"address": {
+			"street": "Sector 13",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "He is a senior consultant of dermatology. ",
+		"experience": "5 Years ",
+		"booking_fee": " 400 ",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+	{
+		"id": 392,
+		"name": "Dr. Sita Kumari",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9845622712",
+		"address": {
+			"street": "Sector 17 ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700002"
+		},
+		"description": "Dr. Sita Kumari has expertise in treatment of allergies, acne, eczema, hair fall, fungal rashes, pigmentation of skin, sun spots and ageing skin etc. ",
+		"experience": " 3 Years ",
+		"booking_fee": " 400",
+		"qualifications": "MBBS, MD, DVD"
+	},
+
+
+
+
+	{
+		"id": 393,
+		"name": "Dr. A.k. Sharma",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896235265",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "100008"
+		},
+		"description": "Dr. A.k. Sharma specialises in clinical dermatology and cosmetic procedures. ",
+		"experience": " 3 Years",
+		"booking_fee": " 550 ",
+		"qualifications": "MBBS, MD"
+	},
+
+
+
+
+	{
+		"id": 394,
+		"name": "Dr. S.Juneja",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896245157",
+		"address": {
+			"street": "Model Town ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dr. S.Juneja is a senior doctor. His expertise includes Clinical Dermatology, Cosmetic Dermatology, Paediatric Dermatology, Skin Allergy. ",
+		"experience": " 4 Years",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, MD"
+
+	}
+]
